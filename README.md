@@ -14,7 +14,7 @@ This is a template for a C++ project using Meson. It is intended to be used as a
 
 >Note: Before running build.py without calling it with python you need to make it executable by running `chmod +x build.py`
 1. Clone this repository
-2. Run `build.py -m` to configure the build environment. You can specify the build directory name and other options.
+2. Run `build.py -m` to configure the build environment.
 3. Run `build.py -n` to build the project.
 4. Run `build.py -c` to clean the build directory.
 
