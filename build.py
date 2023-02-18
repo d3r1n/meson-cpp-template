@@ -60,7 +60,7 @@ def main():
 	args = parser.parse_args()
 
 	# validate arguments
-	if not args.meson and not args.ninja:
+	if not args.meson and not args.ninja and not args.clean:
 		print(f"{RED}BUILD - No arguments provided{CLEAR}")
 		parser.print_help()
 		exit(1)
