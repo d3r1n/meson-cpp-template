@@ -24,7 +24,7 @@ This is a template for a C++ project using Meson. It is intended to be used as a
 * Ninja
 * Python 3.6+
 * Pip
-* C++ Compiler (GCC, Clang, MSVC) with C++20 support (I use Clang)
+* C++ Compiler (GCC, CLang, MSVC) with C++20 support (I use CLang)
 
 ## License
 
