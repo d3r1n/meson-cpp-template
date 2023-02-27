@@ -1,6 +1,6 @@
 #include <iostream>
-#include "mymath.h"
-#include "sqrt.h"
+#include "mymath.hpp"
+#include "sqrt.hpp"
 
 int main(int argc, char** argv)
 {

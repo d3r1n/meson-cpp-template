@@ -6,7 +6,7 @@ project(
 	meson_version: '>= 1.0.0'
 )
 
-incdir = include_directories('include', 'lib')
+incdir = include_directories('include')
 
 lib_sqrt = static_library('sqrt', 'lib/sqrt.cpp', include_directories: incdir)
 dep_sqrt = declare_dependency(link_with: lib_sqrt)

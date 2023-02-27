@@ -1,5 +1,3 @@
-#include "sqrt.h"
-
 unsigned int sqrt(unsigned int x)
 {
 	unsigned int L = 0;
