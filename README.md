@@ -20,7 +20,7 @@ This is a template for a C++ project using Meson. It is intended to be used as a
 
 ## Dependencies
 
-* Meson 1.0.0
+* Meson 1.0.0+
 * Ninja
 * Python 3.6+
 * Pip
